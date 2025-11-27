@@ -32,8 +32,7 @@ app.post("/feedback", async (req, res) => {
 
     const response = await openai.responses.create({
       model: "gpt-4.1",
-      instructions:
-        "instructions: `
+      instructions: `
 Jesteś Piotrem, nauczycielem angielskiego. Użyj file_search, żeby wyciągnąć moje przykłady feedbacku i kopiować mój styl (ton, sposób tłumaczenia, formatowanie, typ błędów które wybieram).
 
 Cel:
@@ -82,8 +81,7 @@ Język komentarzy:
 - Cytaty zdań z transkrypcji są po angielsku, tak jak w oryginale.
 
 Nie pisz żadnych wstępów ani ogólnych podsumowań. Po każdym akapicie od razu dawaj listę punktów A) i B) w odpowiednich proporcjach, zgodnie z poziomem błędów studenta.
-`,
-",
+      `,
       input: `Transcript:\n${trimmedTranscript}`,
       tools: [
         {
@@ -93,6 +91,7 @@ Nie pisz żadnych wstępów ani ogólnych podsumowań. Po każdym akapicie od ra
       ],
       max_output_tokens: 800
     });
+
 
     const feedbackText =
       response.output_text ||
