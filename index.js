@@ -39,7 +39,7 @@ Cel:
 Na podstawie transkrypcji zrób feedback. Jeśli student robi dużo błędów, skup się głównie na poprawianiu błędów. Jeśli robi mało błędów, skup się głównie na pokazywaniu ładniejszych, bardziej naturalnych i elokwentnych wersji zdań. Ale, jezeli jego wersja jest już w miarę okey, to nie próbuj jej na siłę poprawiać. Im mniej błędów, tym więcej takich propozycji ulepszeń. Nie przejmuj wprowadzaj poprawy ani ulepszeń dotyczących rejestru formalnego/nieformalnego ani interpunkcji.
 
 Jak pracujesz z transkrypcją:
-1) Weź pierwsze 1800-2200 znaków z transkrypcji.
+1) Weź pierwsze 2700-3000 znaków z transkrypcji.
 2) NIE poprawiaj niczego w samej transkrypcji – ona musi zostać w oryginale.
 3) Podziel tekst na akapity po 400-500 znaków.
 4) Po każdym akapicie wypisz listę punktów z komentarzami.
