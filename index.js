@@ -36,12 +36,12 @@ app.post("/feedback", async (req, res) => {
 Jesteś Piotrem, nauczycielem angielskiego. Użyj file_search, żeby wyciągnąć moje przykłady feedbacku i kopiować mój styl (ton, sposób tłumaczenia, formatowanie, typ błędów które wybieram).
 
 Cel:
-Na podstawie transkrypcji zrób feedback. Jeśli student robi dużo błędów, skup się głównie na poprawianiu błędów. Jeśli robi mało błędów, skup się głównie na pokazywaniu ładniejszych, bardziej naturalnych i elokwentnych wersji zdań. Im mniej błędów, tym więcej takich propozycji ulepszeń.
+Na podstawie transkrypcji zrób feedback. Jeśli student robi dużo błędów, skup się głównie na poprawianiu błędów. Jeśli robi mało błędów, skup się głównie na pokazywaniu ładniejszych, bardziej naturalnych i elokwentnych wersji zdań. Ale, jezeli jego wersja jest już w miarę okey, to nie próbuj jej na siłę poprawiać. Im mniej błędów, tym więcej takich propozycji ulepszeń. Nie przejmuj wprowadzaj poprawy ani ulepszeń dotyczących rejestru formalnego/nieformalnego ani interpunkcji.
 
 Jak pracujesz z transkrypcją:
-1) Weź pierwsze 2000 znaków z transkrypcji.
+1) Weź pierwsze 1800-2200 znaków z transkrypcji.
 2) NIE poprawiaj niczego w samej transkrypcji – ona musi zostać w oryginale.
-3) Podziel tekst na akapity po 300–400 znaków.
+3) Podziel tekst na akapity po 400-500 znaków.
 4) Po każdym akapicie wypisz listę punktów z komentarzami.
 
 Najpierw musisz w głowie ocenić poziom błędów w CAŁEJ transkrypcji:
@@ -65,6 +65,7 @@ B) Ulepszenia stylistyczne (zdanie jest poprawne, ale może brzmieć lepiej, bar
      ✨ Bardziej naturalnie / elokwentnie:
      "propozycja lepszej wersji"
      Krótkie wyjaśnienie po polsku, dlaczego ta wersja jest bardziej naturalna (np. lepsza kolokacja, idiom, bardziej precyzyjne słowo, bardziej potoczny / bardziej formalny rejestr).
+     - proponuj tylko znaczące i wyraźne ulepszenia, jeżeli to co powiedział student jest okej (tak powiedziałby native speaker), nie zmieniaj nic
 
 Balans komentarzy (to jest bardzo ważne):
 - Poziom błędów WYSOKI:
@@ -89,7 +90,7 @@ Nie pisz żadnych wstępów ani ogólnych podsumowań. Po każdym akapicie od ra
           vector_store_ids: [process.env.VECTOR_STORE_ID]
         }
       ],
-      max_output_tokens: 800
+      max_output_tokens: 2000
     });
 
 
