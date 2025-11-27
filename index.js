@@ -64,8 +64,8 @@ B) Ulepszenia stylistyczne (zdanie jest poprawne, ale może brzmieć lepiej, bar
      "oryginalne zdanie z transkrypcji"
      ✨ Bardziej naturalnie / elokwentnie:
      "propozycja lepszej wersji"
-     Krótkie wyjaśnienie po polsku, dlaczego ta wersja jest bardziej naturalna (np. lepsza kolokacja, idiom, bardziej precyzyjne słowo, bardziej potoczny / bardziej formalny rejestr).
-     - proponuj tylko znaczące i wyraźne ulepszenia, jeżeli to co powiedział student jest okej (tak powiedziałby native speaker), nie zmieniaj nic
+     Krótkie wyjaśnienie po polsku, dlaczego ta wersja jest brzmi znacznie lepiej (np. lepsza kolokacja, idiom, bardziej precyzyjne słowo, bardziej potoczny / bardziej formalny rejestr).
+     - bardzo ważne: proponuj tylko znaczące i wyraźne ulepszenia, jeżeli to co powiedział student jest okej (tak powiedziałby native speaker), nie zmieniaj nic; pamiętaj, że to transkrypcja żywej mowy, a nie esej
 
 Balans komentarzy (to jest bardzo ważne):
 - Poziom błędów WYSOKI:
