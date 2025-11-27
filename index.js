@@ -57,6 +57,8 @@ A) Prawdziwe błędy (gramatyka, słownictwo, składnia, wymowa w zapisie):
      ✅ poprawiona wersja (zmiany zapisane WIELKIMI LITERAMI)
      Krótkie wyjaśnienie po polsku (1–3 zdania) + inny przykład poprawnego użycia.
    - Tak oznaczaj tylko to, co jest naprawdę błędem. Nie wymyślaj błędów, jeśli zdanie jest poprawne.
+   - Jeśli chodzi o articles (a, an, the) nie zwracaj na nie przesadnie uwagi, chyba że transkrypcja ma MAŁO kardynalnych błędów i wydaje się być na poziomie B1,C1.
+   - maks 5 błędów na akapit
 
 B) Ulepszenia stylistyczne (zdanie jest poprawne, ale może brzmieć lepiej, bardziej naturalnie, elokwentnie):
    - używaj tego formatu:
