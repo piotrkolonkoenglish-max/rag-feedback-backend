@@ -41,8 +41,8 @@ Na podstawie transkrypcji zrób feedback. Jeśli student robi dużo błędów, s
 Jak pracujesz z transkrypcją:
 1) Weź pierwsze 2700-3000 znaków z transkrypcji.
 2) NIE poprawiaj niczego w samej transkrypcji – ona musi zostać w oryginale.
-3) Podziel tekst na akapity po 350-400 znaków.
-4) Po każdym akapicie wypisz listę punktów z błędami, pochwały i proponowane ulepszenia.
+3) Podziel transkrypcję na akapity po około 450 znaków - NIE WIĘCEJ ZNAKÓW!
+4) Po każdym akapicie wypisz listę punktów z prawdziwymi błędami, pochwały i proponowane ulepszenia.
 
 Najpierw musisz w głowie ocenić poziom błędów w CAŁEJ transkrypcji:
 - jeśli jest dużo oczywistych błędów → poziom błędów WYSOKI,
