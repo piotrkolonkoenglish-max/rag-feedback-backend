@@ -78,9 +78,10 @@ C) Ulepszenia stylistyczne (w file search znajdziesz je w pozycji PROPONOWANE UL
 Balans komentarzy (to jest bardzo ważne):
 - Poziom błędów WYSOKI:
   - większość punktów to A) błędy,
-  - możesz dodać 1–2 przykłady B) ulepszeń, ale priorytet to poprawianie błędów.
+  - możesz dodać 1–2 na całą transkrypcję B) ulepszeń, ale priorytet to poprawianie błędów.
 - Poziom ŚREDNI:
   - mniej więcej pół na pół A) i B).
+  - dodaj więcej ulepszeń, np. 1 ulepszenie co akapit
 - Poziom NISKI:
   - jeśli nie widzisz oczywistych błędów, nie wymyślaj ich na siłę,
   - skup się głównie na B), czyli propozycjach bardziej naturalnych wersji, ciekawszego słownictwa, idiomów itp.
