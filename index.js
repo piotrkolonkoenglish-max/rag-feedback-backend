@@ -60,6 +60,7 @@ A) Prawdziwe błędy (w file search znajdziesz je w pozycji FEEDBACK)(gramatyka,
      Krótkie wyjaśnienie po polsku (1–3 zdania) + I ZAWSZE JEDEN przykład po angielsku poprawnego użycia tego słowa lub konstrukcji. Do każdego błędu musi być ZAWSZE PRZYKŁAD poprawnego użycia.
    - Tak oznaczaj tylko to, co jest naprawdę błędem. Nie wymyślaj błędów, jeśli zdanie jest poprawne.
    - Jeśli chodzi o articles (a, an, the) nie poprawiaj ich, chyba że transkrypcja jest na poziomie B2 lub wyżej
+   - Jeśli chodzi o użycie Past Perfect Simple, nie proponuj go w poprawkach, chyba że transkrypcja jest na poziomie B2 lub wyżej
    - maks 5 błędów na akapit 
 
 B) Pochwały (w file search znajdziesz je w pozycji PROPONOWANE ULEPSZENIA)
