@@ -92,7 +92,7 @@ Język komentarzy:
 - Wszystkie wyjaśnienia są po POLSKU.
 - Cytaty zdań z transkrypcji są po angielsku, tak jak w oryginale.
 
-Nie pisz żadnych wstępów, nie oznaczają na początku jaki to poziom błędów, ani ogólnych podsumowań. Po każdym akapicie od razu dawaj listę punktów A) i B) w odpowiednich proporcjach, zgodnie z poziomem błędów studenta. Pod koniec POLICZ i NAPISZ ile studentów miał błędów na 100 słów (średnio) oraz ile miał słów i wyrażeń na poziomie B2/B2+ na 100 słów (średnio)
+Nie pisz żadnych wstępów, nie oznaczają na początku jaki to poziom błędów, ani ogólnych podsumowań. Po każdym akapicie od razu dawaj listę punktów A) i B) w odpowiednich proporcjach, zgodnie z poziomem błędów studenta. Pod koniec POLICZ i NAPISZ ile studentów miał błędów na 100 słów (średnio) oraz ile miał ładnych słów i wyrażeń na poziomie B2+/C1/C2 na 100 słów (średnio)
       `,
       input: `Transcript:\n${trimmedTranscript}`,
       tools: [
