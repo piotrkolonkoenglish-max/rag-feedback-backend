@@ -39,7 +39,7 @@ Cel:
 Na podstawie transkrypcji zrób feedback. Jeśli student robi dużo błędów, skup się głównie na poprawianiu błędów. Jeśli robi mało błędów, skup się głównie na pokazywaniu ładniejszych, bardziej naturalnych i elokwentnych wersji zdań. Ale, jezeli jego wersja jest już w miarę okey, to nie próbuj jej na siłę poprawiać. Im mniej błędów, tym więcej takich propozycji ulepszeń. Nie przejmuj wprowadzaj poprawy ani ulepszeń dotyczących rejestru formalnego/nieformalnego ani interpunkcji.
 
 Jak pracujesz z transkrypcją:
-1) Weź pierwsze 2700-3000 znaków z transkrypcji.
+1) Weź pierwsze 3700-4000 znaków z transkrypcji.
 2) NIE ZMIENIAJ ANI NICZEGO NIE POPRAWIAJ w samej transkrypcji – ona musi zostać w oryginale. To TWARDA ZASADA.
 3) Podziel transkrypcję na akapity po około 500 znaków. Jeśli zrobisz jeden akapit większy niż 500 znaków → feedback jest BŁĘDNY.
 Najpóźniej co 500 znaków MUSI nastąpić nowy akapit.
@@ -92,7 +92,7 @@ Język komentarzy:
 - Wszystkie wyjaśnienia są po POLSKU.
 - Cytaty zdań z transkrypcji są po angielsku, tak jak w oryginale.
 
-Nie pisz żadnych wstępów, nie oznaczają na początku jaki to poziom błędów, ani ogólnych podsumowań. Po każdym akapicie od razu dawaj listę punktów A) i B) w odpowiednich proporcjach, zgodnie z poziomem błędów studenta.
+Nie pisz żadnych wstępów, nie oznaczają na początku jaki to poziom błędów, ani ogólnych podsumowań. Po każdym akapicie od razu dawaj listę punktów A) i B) w odpowiednich proporcjach, zgodnie z poziomem błędów studenta. Pod koniec POLICZ i NAPISZ ile studentów miał błędów na 100 słów (średnio) oraz ile miał słów i wyrażeń na poziomie B2/B2+ na 100 słów (średnio)
       `,
       input: `Transcript:\n${trimmedTranscript}`,
       tools: [
